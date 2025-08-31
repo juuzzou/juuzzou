@@ -1,4 +1,4 @@
-<h2 align="center">Hello there 👋! My name is Wyatt and I'm a data nerd from ?</h2>
+<h2 align="center">Hello there 👋! My name is Wyatt and I'm a data nerd</h2>
 
 ###
 
